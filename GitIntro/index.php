@@ -8,6 +8,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
         <meta charset="UTF-8">
         <title></title>
     </head>
+    <body style="background-color: lightblue;">
     <body>
         <?php
         echo '<h2>Hello World!</h2>';
